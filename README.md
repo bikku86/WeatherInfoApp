@@ -1,2 +1,2 @@
-# VikasKumar_JavaScript_GradedLab3
-Weather Information Apllication
+# Weather Information Apllication
+
