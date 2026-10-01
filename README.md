@@ -1,2 +1,2 @@
-# Weather Information Apllication
+# Weather Information Application
 
